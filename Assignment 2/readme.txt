@@ -1,0 +1,1 @@
+Assignment 2: Create a Vehicle class with different data members that have public or private access modifiers. Define getters and setters for the private members. Define default and parameterized constructors. Define member methods to start, stop, accelerate vehicle and to calculate mileage. 
