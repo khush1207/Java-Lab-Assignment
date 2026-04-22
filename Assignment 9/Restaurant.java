@@ -7,7 +7,7 @@ public class Restaurant {
     // Updated to FoodDB as requested
     static final String URL = "jdbc:mysql://localhost:3306/FoodDB";
     static final String USER = "root";
-    static final String PASS = "khush1207";
+    static final String PASS = "{user_password}";
 
     public static Connection getConnection() throws Exception {
         // Load Driver
